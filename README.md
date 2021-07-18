@@ -1,5 +1,5 @@
 # BonVoyageHacksRecycleGo
 To run the RecycleGo App: 
-git clone https://github.com/kunapulivaishnavi/BonVoyageHacksRecycleGo.git
-cd BonVoyageHacksRecycleGo
-java -jar HackathonRecycleGo.jar
+1) git clone https://github.com/kunapulivaishnavi/BonVoyageHacksRecycleGo.git
+2) cd BonVoyageHacksRecycleGo
+3) java -jar HackathonRecycleGo.jar
